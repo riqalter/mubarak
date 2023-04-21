@@ -97,6 +97,7 @@
     align-items: center;
     padding-top: 25em;
   }
+}
   @media (max-width: 375px) {
     div {
     display: flex;

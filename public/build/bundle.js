@@ -906,43 +906,43 @@ var app = (function () {
     			add_location(link, file, 30, 2, 535);
     			if (!src_url_equal(script.src, script_src_value = "https://cdn.jsdelivr.net/npm/js-confetti@latest/dist/js-confetti.browser.js")) attr_dev(script, "src", script_src_value);
     			add_location(script, file, 34, 2, 657);
-    			attr_dev(p0, "class", "wonder svelte-1r40rs0");
+    			attr_dev(p0, "class", "wonder svelte-lun579");
     			add_location(p0, file, 44, 4, 918);
-    			attr_dev(h1, "class", "svelte-1r40rs0");
+    			attr_dev(h1, "class", "svelte-lun579");
     			add_location(h1, file, 45, 4, 948);
-    			attr_dev(h2, "class", "svelte-1r40rs0");
+    			attr_dev(h2, "class", "svelte-lun579");
     			add_location(h2, file, 46, 4, 975);
-    			attr_dev(p1, "class", "svelte-1r40rs0");
+    			attr_dev(p1, "class", "svelte-lun579");
     			add_location(p1, file, 47, 4, 1004);
 
     			attr_dev(p2, "class", p2_class_value = "" + (null_to_empty(/*maaf*/ ctx[1]
     			? "maaf animate__animated animate__heartBeat"
-    			: "maaf") + " svelte-1r40rs0"));
+    			: "maaf") + " svelte-lun579"));
 
     			add_location(p2, file, 48, 4, 1054);
 
     			attr_dev(span, "class", span_class_value = "" + (null_to_empty(/*shake*/ ctx[0]
     			? "salam animate__animated animate__shakeY"
-    			: "salam") + " svelte-1r40rs0"));
+    			: "salam") + " svelte-lun579"));
 
     			add_location(span, file, 52, 4, 1237);
-    			attr_dev(p3, "class", "salam-teks svelte-1r40rs0");
+    			attr_dev(p3, "class", "salam-teks svelte-lun579");
     			add_location(p3, file, 58, 4, 1440);
-    			attr_dev(div, "class", "animate__animated animate__fadeIn svelte-1r40rs0");
+    			attr_dev(div, "class", "animate__animated animate__fadeIn svelte-lun579");
     			add_location(div, file, 43, 2, 865);
     			attr_dev(a0, "href", "https://svelte.dev/");
     			attr_dev(a0, "target", "_blank");
-    			attr_dev(a0, "class", "svelte-1r40rs0");
+    			attr_dev(a0, "class", "svelte-lun579");
     			add_location(a0, file, 63, 6, 1607);
     			attr_dev(a1, "href", "https://vercel.com/");
     			attr_dev(a1, "target", "_blank");
-    			attr_dev(a1, "class", "svelte-1r40rs0");
+    			attr_dev(a1, "class", "svelte-lun579");
     			add_location(a1, file, 64, 17, 1682);
-    			attr_dev(p4, "class", "svelte-1r40rs0");
+    			attr_dev(p4, "class", "svelte-lun579");
     			add_location(p4, file, 61, 4, 1539);
-    			attr_dev(footer, "class", "svelte-1r40rs0");
+    			attr_dev(footer, "class", "svelte-lun579");
     			add_location(footer, file, 60, 2, 1525);
-    			attr_dev(main, "class", "svelte-1r40rs0");
+    			attr_dev(main, "class", "svelte-lun579");
     			add_location(main, file, 42, 0, 855);
     		},
     		l: function claim(nodes) {
@@ -994,13 +994,13 @@ var app = (function () {
 
     			if (dirty & /*maaf*/ 2 && p2_class_value !== (p2_class_value = "" + (null_to_empty(/*maaf*/ ctx[1]
     			? "maaf animate__animated animate__heartBeat"
-    			: "maaf") + " svelte-1r40rs0"))) {
+    			: "maaf") + " svelte-lun579"))) {
     				attr_dev(p2, "class", p2_class_value);
     			}
 
     			if (dirty & /*shake*/ 1 && span_class_value !== (span_class_value = "" + (null_to_empty(/*shake*/ ctx[0]
     			? "salam animate__animated animate__shakeY"
-    			: "salam") + " svelte-1r40rs0"))) {
+    			: "salam") + " svelte-lun579"))) {
     				attr_dev(span, "class", span_class_value);
     			}
     		},

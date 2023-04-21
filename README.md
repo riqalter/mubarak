@@ -4,18 +4,18 @@ Selamat Idul Fitri 1443 Hijriah, semoga Allah senantiasa melimpahkan rahmatnya k
 
 live di [eid.riq.my.id](https://eid.riq.my.id/)
 
-## Installation
+## Nyoba
 
-## kalau memakai npm
+## kalo make npm
 ```bash
   npx degit https://github.com/riqalter/mubarak
   npm install
   npm run dev
 ```
-## kalau memakai yarn
+## kalo make yarn
 ```bash
   npx degit https://github.com/riqalter/mubarak
-  yarn install
+  yarn 
   yarn dev
 ```
 

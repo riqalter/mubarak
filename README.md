@@ -8,13 +8,13 @@ live di [eid.riq.my.id](https://eid.riq.my.id/)
 
 ## kalau memakai npm
 ```bash
-  npx degit https://github.com/riqalter/eid-mubarak
+  npx degit https://github.com/riqalter/mubarak
   npm install
   npm run dev
 ```
 ## kalau memakai yarn
 ```bash
-  npx degit https://github.com/riqalter/eid-mubarak
+  npx degit https://github.com/riqalter/mubarak
   yarn install
   yarn dev
 ```
